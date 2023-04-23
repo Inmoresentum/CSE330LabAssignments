@@ -3,7 +3,10 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=orange" alt="whatever">
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="whatever">
+</p>
 
+<p align="center">
+    <img src="https://github.com/Inmoresentum/CSE330LabAssignments/actions/workflows/test_note_book.yml/badge.svg" alt="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </p>
 
 This repository contains CSE330 Summer 2021 Lab Assignment(s) solutions
