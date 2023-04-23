@@ -12,6 +12,5 @@ ply==3.11
 pyparsing==3.0.9
 PyQt5==5.15.7
 pytz==2023.3
-pywin32==305.1
 tzdata==2023.3
 webencodings==0.5.1
