@@ -6,8 +6,12 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/Inmoresentum/CSE330LabAssignments/actions/workflows/test_note_book.yml/badge.svg" alt="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <a href="https://github.com/Inmoresentum/CSE330LabAssignments/actions/workflows/test_note_book.yml">
+        <img src="https://github.com/Inmoresentum/CSE330LabAssignments/actions/workflows/test_note_book.yml/badge.svg" alt="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    </a> 
 </p>
+
+
 
 This repository contains CSE330 Summer 2021 Lab Assignment(s) solutions
 
@@ -63,7 +67,7 @@ to set up, please follow these steps:
 
 &nbsp;
 
-<p align="center">Copyright &copy; 2023-present <a href="https://github.com/Inmoresentum" target="_blank">Inmoresentum</a>
+<p align="center">Copyright &copy; 2021-present <a href="https://github.com/Inmoresentum" target="_blank">Inmoresentum</a>
 
 <p align="center">
     <a href="https://github.com/Inmoresentum/CSE330LabAssignments/blob/main/LICENSE.md">
